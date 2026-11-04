@@ -1,0 +1,232 @@
+Understood. You want five separate image-generation prompts, each producing one individual full-length fashion photograph—not one combined image with five shirts.
+
+Each prompt will independently feature the same reference man, with his original face, curly hairstyle, glasses and moustache preserved.
+
+### 1\. Cosmic Oil Slick shirt
+
+# COSMIC OIL SLICK – PREMIUM MEN'S FASHION
+
+Create one ultra-realistic, full-length fashion photograph of the exact young South Indian man in the supplied reference photograph.
+
+**FACE IDENTITY LOCK:** Preserve his exact facial appearance, medium-brown skin tone, short dense curly black hairstyle, rectangular black-framed glasses, natural moustache, eyes, nose, lips, jawline and facial proportions. Do not change his identity.
+
+**SHIRT DESIGN:** Dress him in an extraordinary premium full-sleeve designer shirt featuring a spectacular hydro-dipping-inspired liquid-marble pattern.
+
+Colour palette:
+- Iridescent royal purple
+- Deep violet
+- Electric cyan
+- Turquoise
+- Emerald green
+- Midnight blue
+- Metallic gold
+
+Create turbulent, flowing, organic liquid-metal patterns. Purple, cyan and emerald streams should blend into one another, with fine metallic-gold veins and deep blue shadows. The pattern must cover the entire shirt, including collar, shoulders, sleeves, chest and lower body.
+
+Use premium satin or silk-blend fabric with a controlled luxurious sheen. Show realistic stitching, buttons, collar construction, natural folds and authentic textile texture. Avoid plastic or rubber appearance.
+
+**STYLING:** Black premium straight-fit trousers, clean white luxury sneakers and a sophisticated silver wristwatch with a dark dial. Keep the shirt untucked. Roll the sleeves neatly to the forearms.
+
+**POSE:** Full-length standing pose, both hands naturally inside trouser pockets, one leg slightly crossed in front of the other, shoulders relaxed, head facing forward and eyes looking directly at the camera.
+
+**BACKGROUND:** Clean vivid cobalt-blue photography studio with a light-grey floor and natural shadows beneath the shoes.
+
+**CAMERA:** Professional full-frame fashion photography, eye-level perspective, sharp facial details, realistic fabric texture, high-resolution commercial catalogue quality.
+
+**NEGATIVE PROMPT:** No face changes, no different person, no hairstyle changes, no missing glasses, no extra fingers, no distorted hands, no cropped shoes, no cropped head, no cartoon patterns, no ordinary checks, no stripes, no cheap fabric, no random logos, no watermark.
+
+**FINAL RESULT:** One individual full-length luxury fashion photograph showcasing an exceptionally beautiful Cosmic Oil Slick shirt. Do not include other models or additional shirt designs.
+
+### 2\. Molten Dragon shirt
+
+# MOLTEN DRAGON – EXCLUSIVE FIRE AND GOLD COLLECTION
+
+Create one photorealistic, full-length men's fashion photograph using the supplied young South Indian man's reference photograph.
+
+**STRICT FACIAL CONSISTENCY:** Preserve the exact reference face, medium-brown complexion, dense curly black hair, rectangular glasses, natural moustache and original facial proportions. Maintain the same identity without beautification or facial modification.
+
+**SHIRT DESIGN:** Create an expensive-looking full-sleeve designer shirt inspired by molten lava, volcanic marble and liquid gold.
+
+Use a rich palette:
+- Jet black
+- Deep crimson
+- Scarlet red
+- Molten gold
+- Burnt orange
+- Metallic copper
+- Amber
+- Deep burgundy
+
+Create dramatic, irregular flowing patterns. Deep black channels should contrast against fiery crimson streams. Metallic-gold ribbons should travel organically through the red and black marble surface. Add subtle copper veins and glowing amber reflections.
+
+The pattern should suggest powerful molten movement without displaying cartoon flames, dragon illustrations or fantasy graphics.
+
+Cover the entire shirt with coordinated patterns, including chest, sleeves, collar, shoulders and lower hem.
+
+**FABRIC:** Premium silk-blend or satin-finish fabric, rich controlled gloss, realistic textile texture, high-quality tailoring, natural folds, dark buttons and accurate stitching.
+
+**SHIRT FIT:** Modern tailored men's fit, full sleeves rolled neatly to the forearms, structured collar, untucked hem and premium button placket.
+
+**OUTFIT:** Solid black premium trousers, minimal white leather sneakers and a stainless-steel wristwatch with a dark dial.
+
+**POSE:** Confident full-length standing pose. Both hands inside trouser pockets. One leg slightly crossed in front. Natural posture, relaxed shoulders and direct camera gaze.
+
+**BACKGROUND:** Vivid royal-blue studio background, clean light-grey floor, subtle realistic shadows.
+
+**LIGHTING:** Professional luxury fashion lighting with soft facial illumination and controlled highlights on the metallic gold and satin fabric. Preserve the true crimson and black colours.
+
+**NEGATIVE PROMPT:** Do not change the face, hair, glasses, moustache or complexion. No extra limbs, malformed fingers, distorted shoes, cropped body, plastic clothing, cartoon flames, dragon illustrations, random logos or text.
+
+**FINAL RESULT:** One separate full-length premium fashion catalogue photograph of the same reference man wearing the dramatic MOLTEN DRAGON shirt. No additional models or shirt variations.
+
+### 3\. Arctic Pearl shirt
+
+# ARCTIC PEARL – LUXURY IRIDESCENT DESIGNER SHIRT
+
+Create one premium photorealistic full-body fashion photograph of the exact young South Indian man shown in the supplied reference image.
+
+**IDENTITY PRESERVATION:** Maintain the same face, natural medium-brown skin, dense short curly black hair, rectangular black-framed glasses, natural moustache and original facial structure. Do not change his identity or hairstyle.
+
+**SHIRT DESIGN:** Dress him in a luxurious Arctic Pearl full-sleeve designer shirt featuring sophisticated pearl-like liquid-marble patterns.
+
+Use the following colours:
+- Pearl white
+- Ice blue
+- Soft lavender
+- Pale silver
+- Frosted turquoise
+- Iridescent pink
+- Subtle champagne silver
+
+The shirt should resemble an exquisite combination of flowing pearl, frozen crystal and holographic liquid marble.
+
+Create beautiful flowing patterns with delicate silver veins, soft lavender currents, translucent-looking blue transitions and subtle rainbow reflections.
+
+The pattern must look elegant and expensive rather than excessively colourful.
+
+Keep the pearl-white base prominent. Use lavender and ice blue as flowing secondary colours. Silver should create fine metallic accents.
+
+Apply the design naturally across the entire shirt, including collar, sleeves, chest and lower hem.
+
+**MATERIAL:** Premium silk-blend satin with an elegant pearlescent sheen. Realistic soft fabric, natural folds, detailed stitching, high-quality buttons and structured collar.
+
+Avoid a plastic or transparent appearance. The shirt must look wearable and commercially manufacturable.
+
+**TAILORING:** Modern fitted full-sleeve shirt, sleeves rolled neatly, untucked hem, premium button-down construction and elegant collar.
+
+**OUTFIT:** Black tailored trousers, clean white premium sneakers and a stainless-steel wristwatch.
+
+**POSE:** Full-length standing fashion pose, hands inside pockets, one leg slightly crossed, relaxed shoulders and direct eye contact with the camera.
+
+**STUDIO:** Clean cobalt-blue background, light-grey studio floor and realistic contact shadows.
+
+**LIGHTING:** Soft professional studio lighting that reveals the pearlescent reflections without washing out the white fabric or changing the natural skin tone.
+
+**NEGATIVE PROMPT:** No facial changes, no different model, no altered hair, no missing glasses, no extra fingers, no distorted anatomy, no cropped feet, no cheap fabric, no plastic finish, no ordinary floral or striped patterns, no watermark, no unnecessary accessories.
+
+**FINAL RESULT:** One individual luxury fashion photograph featuring the reference man in the ARCTIC PEARL shirt. Make the design elegant, sophisticated, realistic and exceptionally premium. No other models or shirt designs.
+
+### 4\. Emerald Venom shirt
+
+# EMERALD VENOM – PREMIUM GREEN LIQUID-MARBLE COLLECTION
+
+Create one ultra-realistic, full-length designer fashion photograph of the exact young South Indian man shown in the supplied reference photograph.
+
+**FACE CONSISTENCY:** Preserve his original face, medium-brown skin tone, short dense curly black hairstyle, rectangular black-framed glasses, natural moustache and facial proportions. Do not modify the identity.
+
+**SHIRT DESIGN:** Create a spectacular premium full-sleeve shirt featuring deep emerald liquid-marble and hydrographic-inspired patterns.
+
+Colour palette:
+- Deep emerald green
+- Forest green
+- Metallic green
+- Glossy black
+- Dark jade
+- Copper
+- Champagne gold
+
+The emerald should dominate the shirt.
+
+Create flowing irregular green metallic ribbons, deep black marble channels, intricate jade-green streams and subtle copper-gold veins.
+
+The pattern should look like an exclusive fusion of exotic emerald gemstones, metallic automotive paint and sophisticated water-marbling artwork.
+
+Avoid ordinary green camouflage, simple colour blocking, repetitive geometry and floral patterns.
+
+The design must cover the chest, collar, shoulders, sleeves, button placket and lower shirt.
+
+The pattern should follow realistic fabric folds.
+
+**FABRIC:** Premium satin-finish silk blend with a deep luxurious sheen. Show realistic textile texture, detailed stitching, natural folds, premium dark buttons and sophisticated tailoring.
+
+The shirt should look expensive, soft and wearable.
+
+**TAILORING:** Modern full-sleeve designer button-down shirt, neatly rolled sleeves, structured collar, clean untucked hem and comfortable tailored fit.
+
+**OUTFIT:** Solid black premium trousers, clean white leather sneakers and a stainless-steel wristwatch with a dark dial.
+
+**POSE:** Confident full-length standing fashion pose. Both hands inside the front pockets. One leg slightly crossed in front. Natural body proportions, relaxed shoulders and direct camera gaze.
+
+**BACKGROUND:** Professional vivid cobalt-blue studio background with a light-grey floor.
+
+**LIGHTING:** Premium commercial fashion lighting. Reveal the emerald and metallic highlights while retaining realistic dark-green and black details. Preserve natural skin tone.
+
+**CAMERA:** Full-frame fashion photography, natural perspective, sharp face, detailed shirt texture, full-body framing and high-resolution output.
+
+**NEGATIVE PROMPT:** No face alteration, no different person, no hairstyle change, no altered glasses, no missing moustache, no distorted fingers, no extra limbs, no cropped feet, no plastic-looking fabric, no camouflage, no random logos, no watermark.
+
+**FINAL RESULT:** One separate, full-length luxury menswear catalogue photograph of the same reference man wearing the EMERALD VENOM shirt. The shirt must look exclusive, rich, sophisticated and expensive. No additional people or shirt designs.
+
+### 5\. Cyber Thunder shirt
+
+# CYBER THUNDER – FUTURISTIC ELECTRIC BLUE DESIGNER SHIRT
+
+Create one photorealistic, full-length premium men's fashion photograph using the supplied young South Indian man's reference photograph.
+
+**STRICT IDENTITY LOCK:** Preserve the exact reference man's facial structure, medium-brown skin tone, dense short curly black hairstyle, rectangular black-framed glasses, natural moustache and original facial proportions. The subject must remain the same individual.
+
+**SHIRT DESIGN:** Dress him in an extraordinary Cyber Thunder full-sleeve designer shirt inspired by electric energy, futuristic liquid-metal patterns and sapphire-blue marble.
+
+Use:
+- Electric blue
+- Metallic cyan
+- Turquoise
+- Sapphire blue
+- Midnight navy
+- Deep blue-black
+- Metallic silver
+- Ice-blue highlights
+
+Create intricate flowing electrical patterns embedded into a luxurious liquid-marble textile design.
+
+Include curved cyan energy streams, irregular lightning-inspired veins, deep sapphire channels, flowing turquoise ribbons and fine metallic silver reflections.
+
+The pattern should look like sophisticated electrical energy moving through liquid metal.
+
+Avoid cartoon lightning bolts, superhero symbols and printed graphic stickers.
+
+The electric blue must dominate the shirt. Midnight navy should provide contrast. Cyan and turquoise should add movement. Silver should appear only as refined metallic highlights.
+
+Apply the pattern across the chest, sleeves, collar, shoulders and lower hem.
+
+**FABRIC:** High-quality silk-blend or satin-finish textile with controlled glossy reflections, realistic fabric folds, natural movement, detailed seams and premium stitching.
+
+The shirt must remain soft and wearable, not plastic or metallic armour.
+
+**TAILORING:** Modern full-sleeve button-down shirt, structured collar, dark navy buttons, neat rolled sleeves, realistic buttonholes, tailored fit and clean untucked hem.
+
+**OUTFIT:** Solid black trousers, premium white sneakers and a sophisticated silver wristwatch with a dark dial.
+
+**POSE:** Full-length confident standing pose, both hands naturally inside trouser pockets, one leg slightly crossed in front, relaxed shoulders, head facing forward and direct camera gaze.
+
+**BACKGROUND:** Vivid royal-blue studio background with a light-grey floor. Maintain sufficient contrast between the background and the shirt.
+
+**LIGHTING:** Professional studio fashion lighting, soft facial illumination, subtle rim lighting and controlled metallic highlights. Keep the electric-blue pattern crisp without excessive glow.
+
+**CAMERA:** Professional fashion photography, full-body framing, natural perspective, high-resolution detail, sharp face and realistic textile rendering.
+
+**NEGATIVE PROMPT:** No identity changes, no different person, no hairstyle changes, no missing glasses, no altered moustache, no distorted hands, no extra fingers, no extra limbs, no cropped feet, no cartoon lightning, no superhero costume, no plastic fabric, no random text, no watermark.
+
+**FINAL RESULT:** One individual premium fashion catalogue photograph of the exact reference man wearing the CYBER THUNDER shirt. Make it futuristic, stylish, realistic and expensive-looking. Do not include other models or additional shirt designs.
+
+Important: Use the same passport portrait and full-body reference images with each separate prompt. Each prompt is designed to generate just one shirt look at a time.
